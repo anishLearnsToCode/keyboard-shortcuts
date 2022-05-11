@@ -1,6 +1,8 @@
-# Keyboard Shortcuts
+# Keyboard Shortcuts 
 
-## 👩‍💻 JetBrains IDE's
+## Windows
+
+### 👩‍💻 JetBrains IDE's
 
 - Code Folding: `Ctrl` + `.`
 - Search Everywhere: `Ctrl` + `Shift` + `F`
@@ -8,6 +10,10 @@
 - Search File: `Ctrl` + `F`
 - Replace Text: `Ctrl` + `R`
 
-## 🌐  Google Chrome
+### 🌐  Google Chrome
 - Refresh: `Ctrl` + `R`
 - New Tab: `Ctrl` + `T`
+
+### 📹 Zoom
+- Toggle Audio: `Alt` + `A`
+- Toggle Video: `Alt` + `V`
