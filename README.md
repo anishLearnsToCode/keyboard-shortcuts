@@ -1,6 +1,12 @@
 # Keyboard Shortcuts 
 
+- [Windows](#windows)
+- [MacOS](#mac)
+
 ## Windows
+
+### 🖥 OS
+- Switch Application: `Alt` + `Tab`
 
 ### 👩‍💻 JetBrains IDE's
 
@@ -17,3 +23,5 @@
 ### 📹 Zoom
 - Toggle Audio: `Alt` + `A`
 - Toggle Video: `Alt` + `V`
+
+## Mac
