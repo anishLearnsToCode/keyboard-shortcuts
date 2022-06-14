@@ -27,6 +27,7 @@
 ### 🌐  Google Chrome
 - Refresh: `Ctrl` + `R`
 - New Tab: `Ctrl` + `T`
+- Toggle Full screen: `F11` 
 
 ### 📹 Zoom
 - Toggle Audio: `Alt` + `A`
