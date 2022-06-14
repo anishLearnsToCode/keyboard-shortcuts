@@ -13,6 +13,7 @@
 - Toggle Between Multiple Desktops: `Ctrl` + `Win` + `⬅` / `➡`
 - Emoji Picker: `Win` + `.`
 - Options Menu for any Application: `Alt` + `Enter`
+- Rename File or Folder: `F2`
 
 ### 👩‍💻 JetBrains IDE's
 
@@ -32,10 +33,10 @@
 - Toggle Video: `Alt` + `V`
 
 ###  Mattermost
-- Search Cahnnel Names: `Ctrl` + `K`
+- Search Channel Names: `Ctrl` + `K`
 
 ### Slack
-- Search Cahnnel Names: `Ctrl` + `K`
+- Search Channel Names: `Ctrl` + `K`
 
 ### WhatsApp
 - Newline While Typing Message: `Ctrl` + `Shift` + `Enter`
