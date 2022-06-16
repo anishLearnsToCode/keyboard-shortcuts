@@ -42,4 +42,8 @@
 ### WhatsApp
 - Newline While Typing Message: `Ctrl` + `Shift` + `Enter`
 
+### Oracle PL/SQL
+- Running a SQL query: `F8`
+- Compiling a package: `F8`
+
 ## Mac
