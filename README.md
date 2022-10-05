@@ -50,3 +50,6 @@
 
 ### 🖥 OS
 - New Folder: `Cmd ⌘` + `Shift` + `N`
+
+### Slack
+- Search Channel Names: `Cmd ⌘` + `K`
