@@ -47,3 +47,6 @@
 - Compiling a package: `F8`
 
 ## Mac
+
+### 🖥 OS
+- New Folder: `Cmd ⌘` + `Shift` + `N`
