@@ -10,7 +10,7 @@
 - Go to Desktop: `Win` + `D`
 - Close Application: `Alt` + `F4`
 - Create New Desktop: `Ctrl` + `Win` + `D`
-- Toggle Between Multiple Desktops: `Ctrl` + `Win` + `⬅` / `➡`
+- Toggle Between Multiple Desktops: `Ctrl` + `Win` + `←` / `→`
 - Emoji Picker: `Win` + `.`
 - Options Menu for any Application: `Alt` + `Enter`
 - Rename File or Folder: `F2`
