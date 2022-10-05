@@ -62,5 +62,8 @@
 - Replace Text: `Cmd ⌘` + `R`
 - Run Current File: `Ctrl` + `R`
 
+### PG Admin
+- Run Query / Refersh: `F5` 
+
 ### Slack
 - Search Channel Names: `Cmd ⌘` + `K`
