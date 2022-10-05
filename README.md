@@ -50,6 +50,8 @@
 
 ### 🖥 OS
 - New Folder: `Cmd ⌘` + `Shift` + `N`
+- Toggle Between Multiple Desktops: `Ctrl ^` + `←` / `→`
+- Emoji Picker: `Ctrl ^` + `Cmd ⌘` + `Space`
 
 ### Slack
 - Search Channel Names: `Cmd ⌘` + `K`
