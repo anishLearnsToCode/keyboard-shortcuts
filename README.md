@@ -53,5 +53,14 @@
 - Toggle Between Multiple Desktops: `Ctrl ^` + `←` / `→`
 - Emoji Picker: `Ctrl ^` + `Cmd ⌘` + `Space`
 
+### 👩‍💻 JetBrains IDE's
+
+- Code Folding: `Cmd ⌘` + `.`
+- Search Everywhere: `Cmd ⌘` + `Shift` + `F`
+- Search File Names: `Shift` * 2
+- Search File: `Cmd ⌘` + `F`
+- Replace Text: `Cmd ⌘` + `R`
+- Run Current File: `Ctrl` + `R`
+
 ### Slack
 - Search Channel Names: `Cmd ⌘` + `K`
