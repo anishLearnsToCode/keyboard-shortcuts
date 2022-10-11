@@ -62,6 +62,12 @@
 - Replace Text: `Cmd ⌘` + `R`
 - Run Current File: `Ctrl` + `R`
 
+### 🌐  Google Chrome
+- Close Tab: `Cmd ⌘` + `W`
+- Refresh: `Ctrl` + `R`
+- New Tab: `Cmd ⌘` + `T`
+- Toggle Full screen: `F11` 
+
 ### PG Admin
 - Run Query / Refersh: `F5` 
 
