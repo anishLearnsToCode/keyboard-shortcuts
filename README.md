@@ -66,6 +66,7 @@
 - Close Tab: `Cmd ⌘` + `W`
 - Refresh: `Cmd ⌘` + `R`
 - New Tab: `Cmd ⌘` + `T`
+- Cycle Through Tabs: `Cmd ⌘` + `shift` + `[` `]`
 
 ### PG Admin
 - Run Query / Refersh: `F5` 
