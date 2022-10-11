@@ -68,6 +68,9 @@
 - New Tab: `Cmd ⌘` + `T`
 - Cycle Through Tabs: `Cmd ⌘` + `shift` + `[` `]`
 
+### ✉️ Email
+- Flag Email: `Cmd ⌘` + `shift` + `L`
+
 ### PG Admin
 - Run Query / Refersh: `F5` 
 
