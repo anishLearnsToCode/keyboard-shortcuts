@@ -64,9 +64,8 @@
 
 ### 🌐  Google Chrome
 - Close Tab: `Cmd ⌘` + `W`
-- Refresh: `Ctrl` + `R`
+- Refresh: `Cmd ⌘` + `R`
 - New Tab: `Cmd ⌘` + `T`
-- Toggle Full screen: `F11` 
 
 ### PG Admin
 - Run Query / Refersh: `F5` 
