@@ -42,6 +42,7 @@
 
 ### WhatsApp
 - Newline While Typing Message: `Ctrl` + `Shift` + `Enter`
+- Emoji Picker: `colon :` + start typing
 
 ### Oracle PL/SQL
 - Running a SQL query: `F8`
@@ -72,6 +73,9 @@
 
 ### ✉️ Email
 - Flag Email: `Cmd ⌘` + `shift` + `L`
+
+### WhatsApp
+- Emoji Picker: `colon :` + start typing
 
 ### PG Admin
 - Run Query / Refersh: `F5` 
