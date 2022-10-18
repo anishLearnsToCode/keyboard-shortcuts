@@ -14,6 +14,7 @@
 - Emoji Picker: `Win` + `.`
 - Options Menu for any Application: `Alt` + `Enter`
 - Rename File or Folder: `F2`
+- Lock Screen: `Ctrl` + `L`
 
 ### 👩‍💻 JetBrains IDE's
 
@@ -52,6 +53,7 @@
 - New Folder: `Cmd ⌘` + `Shift` + `N`
 - Toggle Between Multiple Desktops: `Ctrl ^` + `←` / `→`
 - Emoji Picker: `Ctrl ^` + `Cmd ⌘` + `Space`
+- Lock Screen: `Ctrl ^` + `Cmd ⌘` + `Q` 
 
 ### 👩‍💻 JetBrains IDE's
 
