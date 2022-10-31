@@ -64,6 +64,7 @@
 - Search File: `Cmd ⌘` + `F`
 - Replace Text: `Cmd ⌘` + `R`
 - Run Current File: `Ctrl` + `R`
+- Close Current Tab: `Cmd ⌘` + `W`
 
 ### 🌐  Google Chrome
 - Close Tab: `Cmd ⌘` + `W`
