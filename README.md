@@ -65,6 +65,7 @@
 - Replace Text: `Cmd ⌘` + `R`
 - Run Current File: `Ctrl` + `R`
 - Close Current Tab: `Cmd ⌘` + `W`
+- Clipboard: `Cmd ⌘` + `Shift` + `V`
 
 ### 🌐  Google Chrome
 - Close Tab: `Cmd ⌘` + `W`
