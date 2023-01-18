@@ -66,6 +66,7 @@
 - Run Current File: `Ctrl` + `R`
 - Close Current Tab: `Cmd ⌘` + `W`
 - Clipboard: `Cmd ⌘` + `Shift` + `V`
+- Optimize Imports: `Ctrl ^` + `Option ⌥` + `O`
 
 ### 🌐  Google Chrome
 - Close Tab: `Cmd ⌘` + `W`
