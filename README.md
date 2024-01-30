@@ -67,6 +67,7 @@
 - Close Current Tab: `Cmd ⌘` + `W`
 - Clipboard: `Cmd ⌘` + `Shift` + `V`
 - Optimize Imports: `Ctrl ^` + `Option ⌥` + `O`
+- Shjow hidden files: `Cmd ⌘` + `Shift` + `.`
 
 ### 🌐  Google Chrome
 - Close Tab: `Cmd ⌘` + `W`
