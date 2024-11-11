@@ -55,7 +55,8 @@
 - Toggle Between Multiple Desktops: `Ctrl ^` + `←` / `→`
 - Emoji Picker: `Ctrl ^` + `Cmd ⌘` + `Space`
 - Lock Screen: `Ctrl ^` + `Cmd ⌘` + `Q`
-- Show all hidden items in Finder: `Cmd ⌘` + `Shift` + `.` 
+- Show all hidden items in Finder: `Cmd ⌘` + `Shift` + `.`
+- Lock computer: `Ctrl` + `Cmd ⌘` + `Q` 
 
 ### 👩‍💻 JetBrains IDE's
 
