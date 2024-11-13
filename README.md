@@ -90,3 +90,6 @@
 
 ### Slack
 - Search Channel Names: `Cmd ⌘` + `K`
+
+### VS Code
+- Close Terminal Window: `Cmd ⌘` + `W`
