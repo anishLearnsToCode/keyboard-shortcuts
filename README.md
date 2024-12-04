@@ -93,3 +93,6 @@
 
 ### VS Code
 - Close Terminal Window: `Cmd ⌘` + `W`
+
+### Bash
+- Revesre searc: `Ctrl ^` + `R`
